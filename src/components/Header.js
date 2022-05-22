@@ -14,7 +14,8 @@ function Header() {
     <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div className="navbar-nav">
           <Link to="/" className="nav-link active">Login</Link>
-        <Link to="/add" className="nav-link">Add User</Link>   
+        <Link to="/add" className="nav-link">Add User</Link> 
+        <Link to="/view" className="nav-link" >View</Link>  
         
       </div>
     </div>
